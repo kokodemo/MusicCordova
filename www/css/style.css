@@ -1,0 +1,43 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+html,
+body {
+  height: 100%;
+}
+
+#test-swipe-1{
+  height: 100% !important;
+  background-color: orange !important;
+  color: white;
+}
+#test-swipe-2{
+  height: 100% !important;
+  background-color: grey !important;
+}
+.tabs-content.carousel.carousel-slider {
+  height: 93% !important;
+}
+
+#search{
+	color: white !important;
+}
+
+.collection-item{
+	color: black !important;
+}
+
+.tabs {
+  height: 7%;
+}
+#listamusica{
+   border: 2px solid white;
+   border-radius: 5px;
+   width: 100%;
+   border-collapse: collapse;
+}
